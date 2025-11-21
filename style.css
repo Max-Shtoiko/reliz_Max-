@@ -1,13 +1,22 @@
-nav{
-    /* Linear Gradient */
-background: linear-gradient(173deg, #4facfe 0%, #00f2fe 100%);
+nav {
+  /* Linear Gradient */
+  background: linear-gradient(173deg, #4facfe 0%, #00f2fe 100%);
 
-/* Fallback for older browsers */
-background: #4facfe;
-background: -webkit-linear-gradient(173deg, #4facfe 0%, #00f2fe 100%);
-background: -moz-linear-gradient(173deg, #4facfe 0%, #00f2fe 100%);
-background: -o-linear-gradient
+  /* Fallback for older browsers */
+  background: #4facfe;
+  background: -webkit-linear-gradient(173deg, #4facfe 0%, #00f2fe 100%);
+  background: -moz-linear-gradient(173deg, #4facfe 0%, #00f2fe 100%);
+  background: -o-linear-gradient;
 }
 
-
-
+.order {
+  display: none;
+}
+.products-list,
+.cart-items-list {
+  padding: 20px;
+  display: flex;
+  justify-content: start;
+  gap: 20px;
+  flex-wrap: wrap;
+}
