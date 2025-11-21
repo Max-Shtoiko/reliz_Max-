@@ -36,7 +36,7 @@ function getCardHTML(product) {
     <p class="card-text card-price">Вартість: ${product.price}грн</p>
     <a href="#" class="btn btn-primary" data-product='${JSON.stringify(
       product
-    )}'>додати в кошик</a>
+    )}'>Додати в корзину</a>
   </div>
 </div>`;
 }
