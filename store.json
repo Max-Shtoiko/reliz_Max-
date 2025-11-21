@@ -1,71 +1,127 @@
 [
-{
-"title": "Путівка в Китай",
- "price": "200000",
- "img": ""
-},
+  {
+    "title": "Путівка в Китай",
+    "price": "200000",
+    "img": "https://cms.enjourney.ru/upload/Jana/China/chiperd.jpg",
+    "description": "Подорож до Китаю з відвідуванням Пекіна, Шанхая, Гуанчжоу та Великої Китайської стіни."
+  },
 
-{
-"title": "Путівка в Японію",
- "price": "130000",
- "img": ""
-},
+  {
+    "title": "Путівка в Японію",
+    "price": "130000",
+    "img": "https://ecotours.ru/assets/galleries/58/jap-3.jpg",
+    "description": "Відкрийте Японію: Токіо, Кіото, Осака, гора Фудзі та стародавні храми."
+  },
 
-{
-"title": "Путівка в Канаду",
- "price": "200000",
- "img": ""
-},
+  {
+    "title": "Путівка в Канаду",
+    "price": "200000",
+    "img": "https://cms.enjourney.ru/upload/Jana/Canada/canperv.jpg",
+    "description": "Мандрівка Канадою: Торонто, Монреаль, Ванкувер та Ніагарський водоспад."
+  },
 
-{
-"title": "Путівка в Німечину",
- "price": "150000",
- "img": ""
-},
+  {
+    "title": "Путівка в Німечину",
+    "price": "150000",
+    "img": "https://ua-energy.org/system/posts/covers/000/018/373/original/Berlin_reichstag_CP.jpg?1752846732",
+    "description": "Відвідайте Берлін, Мюнхен, Гамбург, Кельн і знамениті німецькі замки."
+  },
 
-{
-"title": "Путівка в Францію",
- "price": "18000",
- "img": ""
-},
+  {
+    "title": "Путівка в Францію",
+    "price": "18000",
+    "img": "https://lh4.googleusercontent.com/proxy/HSt2QS5PEuYhBwmc614u5s5DP419H91PixtM8U7fWFzDI5k52g-dwFjlWiPJT16tE-2hDXcsr2CwTwfCnUGQ9_5UFtH7s_LAdHXKMpV9kR9s2PnvfoA",
+    "description": "Подорож до Франції: Париж, Ніцца, Марсель, Лувр та Ейфелева вежа."
+  },
 
-{
-"title": "Путівка в Албанію",
- "price": "16000",
- "img": ""
-},
+  {
+    "title": "Путівка в Албанію",
+    "price": "16000",
+    "img": "https://cms.enjourney.ru/upload/Jana/Albania/Albania7.jpg",
+    "description": "Албанія: Тирана, Дуррес, Саранда та пляжі Адріатики."
+  },
 
+  {
+    "title": "Путівка в Італію",
+    "price": "21000",
+    "img": "https://smartfly.online/wp-content/uploads/2019/03/italiya.jpg",
+    "description": "Італія чекає: Рим, Венеція, Флоренція, Мілан і узбережжя Амальфі."
+  },
 
-{
-"title": "Путівка в Італію",
- "price": "21000",
- "img": ""
-},
+  {
+    "title": "Путівка в Австрію",
+    "price": "31000",
+    "img": "https://cms.enjourney.ru/upload/Jana/Osterreich/Aus3.jpg",
+    "description": "Австрія: Відень, Зальцбург, Інсбрук та Альпійські краєвиди."
+  },
 
-{
-"title": "Путівка в Африку",
- "price": "31000",
- "img": ""
-},
+  {
+    "title": "Путівка в Польшу",
+    "price": "11000",
+    "img": "https://zakavto.com.ua/images/data/articles/111.jpg",
+    "description": "Польща: Варшава, Краків, Вроцлав та Гданськ."
+  },
 
-{
-"title": "Путівка в Польшу",
- "price": "11000",
- "img": ""
-},
+  {
+    "title": "Путівка в Румунію",
+    "price": "12000",
+    "img": "https://www.gorgany.com/pro/%D1%81%D0%B5%D1%80%D0%BF%D0%B0%D0%BD%D1%82%D0%B8%D0%BD%D0%B8-2/",
+    "description": "Румунія: Бухарест, Брашов, Сігішоара та замок Дракули."
+  },
 
+  {
+    "title": "Путівка в Молдову",
+    "price": "12500",
+    "img": "https://bestvietnam.ru/wp-content/uploads/2019/09/%D0%BC%D0%BE%D0%BB%D0%B4%D0%BE%D0%B2%D0%B0.jpg",
+    "description": "Молдова: Кишинів, Орхей, виноробні Мілештій Міч і Кріковань."
+  },
 
-{
-"title": "Путівка в Румунію",
- "price": "12000",
- "img": ""
-},
+  {
+    "title": "Путівка в Швецію",
+    "price": "18500",
+    "img": "https://cms.enjourney.ru/upload/Jana/Sweden/Sw4.jpg",
+    "description": "Швеція: Стокгольм, Уппсала, Мальме та мальовничі острови."
+  },
 
-{
-"title": "Путівка в Молдову",
- "price": "12500",
- "img": ""
-}
+  {
+    "title": "Путівка в Испанию",
+    "price": "23500",
+    "img": "https://cms.enjourney.ru/upload/Jana/Spain/Sp3.jpg",
+    "description": "Іспанія: Барселона, Мадрид, Валенсія, Севілья та курорти Коста-Брава."
+  },
+
+  {
+    "title": "Путівка в Норвегію",
+    "price": "20500",
+    "img": "https://travelblog.lv/wp-content/uploads/2024/10/Norvegiya.jpg",
+    "description": "Норвегія: Осло, Берген, Тромсе та знамениті фіорди."
+  },
+
+  {
+    "title": "Путівка в Англію",
+    "price": "27500",
+    "img": "https://www.amigo-s.ru/content-images/d663b7f05aeb78616e19eee9c6c76a8b.jpg",
+    "description": "Англія: Лондон, Ліверпуль, Манчестер та Оксфорд."
+  },
+
+  {
+    "title": "Путівка в Єгипет",
+    "price": "22500",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQF3HEJVal06uJrDbksfM85wETrA8t5b1BTbg&s",
+    "description": "Єгипет: Каїр, Хургада, Шарм-ель-Шейх та піраміди Гізи."
+  },
+
+  {
+    "title": "Путівка в Туречину",
+    "price": "21500",
+    "img": "https://znaki.fm/static/content/thumbs/1600x900/5/41/fr452u---c16x9x50px50p--4d08a6c121d8f13de1f11f1bcef5b415.png",
+    "description": "Туреччина: Стамбул, Анталія, Аланія, Каппадокія."
+  },
+
+  {
+    "title": "Путівка в Казакстан",
+    "price": "20500",
+    "img": "https://wildticketasia.com/uploads/posts/2023-04/1681317857_shymkent-city-01.jpg",
+    "description": "Казахстан: Астана, Алмати, Шимкент та озеро Бурабай."
+  }
 ]
-
-    

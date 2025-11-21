@@ -10,13 +10,13 @@ function get_item(item) {
   return `<div  class="card mb-3" style="max-width: 540px;">
   <div class="row g-0">
     <div class="col-md-4">
-      <img src="${item.image}" class="img-fluid rounded-start" alt="...">
+      <img src="${item.img}" class="img-fluid rounded-start" alt="...">
     </div>
     <div class="col-md-8">
       <div class="card-body">
         <h5 class="card-title">${item.title}</h5>
           <div class="cart-item-quantity">Кількість: ${item.quantity}</div>
-                <div class="cart-item-price" data-price="${item.price}">${
+                <div class="cart-item-price" data-price="${item.price}">Вартість:${
     item.price * item.quantity
   } грн</div>
       </div>
